@@ -42,8 +42,8 @@ I'm currently a Junior Platform Engineer and a Cyber Security enthusiast.
 ### ⚙️ DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform) *(basic exposure)*
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes) *(basic exposure)*
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab)
