@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm currently a Junior Platform Engineer and a Cyber Security enthusiast.
 
-<!--
-**Meli-MJE/Meli-MJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on Linux and Windows using WSL Linux - engineering, security and networking related stuff.
+- 🌱 I’m currently learning the entry of Cyber Security.
+- 🤔 I’m looking for help with improvement on Platform Engineering but also what it takes to be an analyst.
+- 😄 I enjoy building systems, understanding how they work, and making them more secure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meli-MJE&show_icons=true&theme=dark)
+
+---
