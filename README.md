@@ -10,6 +10,8 @@ I'm currently a Junior Platform Engineer and a Cyber Security enthusiast.
 
 <!-- GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meli-MJE&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meli-MJE&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meli-MJE&theme=dark)
 
 ---
 
