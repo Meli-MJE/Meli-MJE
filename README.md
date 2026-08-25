@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mae govannen! 👋
 I'm currently a Junior Platform Engineer and a Cyber Security enthusiast.
 
 - 🔭 I'm currently working on Linux and Windows using WSL Linux - engineering, security and networking related stuff.
